@@ -31,8 +31,8 @@ This dataset was chosen because it contains structured, student-related informat
 
 # 4. Work Distribution
 ## 4.1 Phase 1:
-- **Reem Alomair (444204383):** 
-- **Sultanah Almutairi (443200444):**  
-- **Arwa Altheeb (443200566):**   
-- **Ruba Alrabiah (443200453):**  
-- **Lama Albugami (443200175):** 
+- **Reem Alomair (444204383):** Writes the project introduction, defines the dataset goal and source, and explains and applies preprocessing techniques. 
+- **Sultanah Almutairi (443200444):** Defines the dataset characteristics, including the number of observations, data types, and target variable description, and provides the statistical summary. 
+- **Arwa Altheeb (443200566):**  Writes the project introduction, and visualizes variable distributions through exploratory data analysis.  
+- **Ruba Alrabiah (443200453):**  Defines the dataset goal and source, and explains and applies preprocessing techniques. 
+- **Lama Albugami (443200175):** Analyzes missing values, examines class imbalance, and reports the findings.
