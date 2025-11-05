@@ -43,3 +43,11 @@ This dataset was chosen because it contains structured, student-related informat
 - **Arwa Altheeb (443200566):** Writes the Algorithm Selection & Justification and Results Interpretation sections.
 - **Ruba Alrabiah (443200453):** Implements the supervised learning models and writes the code for Algorithm Implementation. 
 - **Lama Albogami (443200175):** Compares model results and analyzes evaluation metrics under Algorithm Evaluation & Comparison.
+
+
+## 4.3 Phase 3:
+- **Reem Alomair (444204383):** 
+- **Sultanah Almutairi (443200444):** 
+- **Arwa Altheeb (443200566):** 
+- **Ruba Alrabiah (443200453):** 
+- **Lama Albogami (443200175):**
