@@ -46,8 +46,8 @@ This dataset was chosen because it contains structured, student-related informat
 
 
 ## 4.3 Phase 3:
-- **Reem Alomair (444204383):** 
-- **Sultanah Almutairi (443200444):** 
-- **Arwa Altheeb (443200566):** 
-- **Ruba Alrabiah (443200453):** 
-- **Lama Albogami (443200175):**
+- **Reem Alomair (444204383):** Applies the K-Means clustering algorithm to the prepared dataset, and executes the clustering process. 
+- **Sultanah Almutairi (443200444):** Evaluates the clustering performance using appropriate metrics.  
+- **Arwa Altheeb (443200566):** Writes the Integration & Insight section and interprets the clustering results.
+- **Ruba Alrabiah (443200453):** Writes the Integration & Insight section and interprets the clustering results.
+- **Lama Albogami (443200175):** Visualizes the resulting clusters through plots and cluster diagrams.
