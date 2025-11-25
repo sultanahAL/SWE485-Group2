@@ -51,3 +51,10 @@ This dataset was chosen because it contains structured, student-related informat
 - **Arwa Altheeb (443200566):** Writes the Integration & Insight section and interprets the clustering results.
 - **Ruba Alrabiah (443200453):** Writes the Integration & Insight section and interprets the clustering results.
 - **Lama Albogami (443200175):** Visualizes the resulting clusters through plots and cluster diagrams.
+
+## 4.4 Phase 4:
+- **Reem Alomair (444204383):** 
+- **Sultanah Almutairi (443200444):** 
+- **Arwa Altheeb (443200566):** 
+- **Ruba Alrabiah (443200453):** 
+- **Lama Albogami (443200175):** 
